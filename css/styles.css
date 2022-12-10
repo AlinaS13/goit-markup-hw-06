@@ -519,6 +519,7 @@ img {
   letter-spacing: 0.06em;
   font-family: inherit;
   border-width: 0px;
+  cursor: pointer;
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   color: var(--accent-whit-color);
@@ -587,6 +588,7 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
+  cursor: pointer;
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -735,6 +737,7 @@ img {
   line-height: 30px;
   align-items: center;
   text-align: center;
+  cursor: pointer;
   letter-spacing: 0.06em;
   color: var(--accent-whit-color);
   transition-duration: 250ms;
